@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Mircroservices.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Mircroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explorecali/explorecali.iml" filepath="$PROJECT_DIR$/explorecali/explorecali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explorecali-mongo/explorecali (1).iml" filepath="$PROJECT_DIR$/explorecali-mongo/explorecali (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/explorecali-mongo/explorecali-mongo.iml" filepath="$PROJECT_DIR$/explorecali-mongo/explorecali-mongo.iml" />
+    </modules>
+  </component>
+</project>
